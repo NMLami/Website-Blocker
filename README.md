@@ -1,5 +1,5 @@
 # Website-Blocker
-Python application using folium and local hosts file that blocks a certain site for certain time
+Python application using local hosts file that blocks a certain site for certain time
 
 IN THE Website_Blocker.pyw file:
 Place the hosts file in the following mannar 
